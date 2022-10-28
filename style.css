@@ -1,0 +1,110 @@
+body{
+
+background-color: white;
+
+
+}
+
+header{
+text-align: center;
+border: 50px;
+background-color: lightblue;
+}
+
+h1{
+
+border: 20%;
+
+
+}
+
+img{
+height: 150px;
+width: 150px;
+display: inline;
+
+}
+
+section.antigua{
+
+display: block;
+background-image: url("img/valencia_antigua.jpg");
+
+}
+
+
+section{
+
+background-color: white;
+text-align: center;
+
+}
+
+hr.centrado{
+
+text-align: center;
+width: 75%;
+
+}
+
+
+section.azul{
+
+background-color: lightblue;
+
+
+}
+
+section.gastro{
+
+
+
+
+
+}
+
+
+div.flota{
+
+display: none;
+transition: all;
+
+
+}
+
+
+hr.azul{
+
+height: 300%;
+border-color: blue;
+background-color: blue;
+
+}
+
+p.azul{
+
+text-align: center;
+display: inline;
+}
+
+p.letras{
+
+color: blue;
+
+
+}
+
+p.azul:hover{
+
+
+background-color: lightblue;
+font-weight: bold;
+
+}
+
+img.uno:hover{
+
+
+opacity: 50%;
+
+}
